@@ -14,3 +14,13 @@
 7. Glejte ukazno vrstico za nadaljnja navodila.
    Spremembe zabeležite v ukazni vrstici, ne z gumbom _Commit_ v VSCode, sicer sporočil zgodbe ne boste videli.
    Če se ob ukazu `git commit` ni izpisalo nič drugega kot običajno, ste izpustili 2. korak: poženite skripto in `git commit` ponovite.
+42On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   navodila.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
